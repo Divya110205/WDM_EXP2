@@ -1,4 +1,4 @@
-![Screenshot (659)](https://github.com/user-attachments/assets/975a5403-ef74-42fd-a200-0d812785e32f)## EX2 Generating Association Rules for Buying dataset using Apriori Algorithm
+## EX2 Generating Association Rules for Buying dataset using Apriori Algorithm
 ### DATE: 27.02.2025
 ### AIM: To generate associate rules for the buying dataset using Apriori Algorithm.
 ### Description:
